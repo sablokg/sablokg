@@ -35,10 +35,10 @@
 ## **Technology Philosophy**
 - Rust and Python have different roles in my work rather than competing roles.
 - Rust is my primary software-development language and remains my preferred language for building complete scientific software, pipelines, applications and research tools.
-- Python is my dedicated machine-learning environment because of its scientific and ML ecosystem, including scikit-learn, PyTorch, fastai, PyTorch Geometric, LightGBM, XGBoost and specialized scientific libraries.
+- Python is my dedicated machine-learning environment because of its scientific and ML ecosystem, including scikit-learn, Keras, LightGBM, XGBoost and specialized scientific libraries.
 - I use the language that is most appropriate for producing the actual scientific result. The result, reproducibility and scientific correctness are more important than programming-language debates.
 - I publish complete compiled software and research pipelines rather than treating programming language choice as the objective itself.
-- **I read all books on languages I use by www.rheinwerk-computing.com**
+- **I read all books on languages I use by www.rheinwerk-computing.com** You can read only limited topic and limited book.Dont download or buy if you dont code that.
   
 ## **Socialism and Social Attitude**
 - My use of alphabets, colours, numbers, symbols, or any other non-living things has **no association with any living or deceased person, place, organisation, or identity**. Please do not create or assume false associations based on these things. My active/official online profiles are limited to the following:
