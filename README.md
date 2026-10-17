@@ -7,7 +7,7 @@
 - I use R where appropriate for statistical analysis and bioinformatics.
 - My preferred division is: Rust for software engineering and scientific software; Python for machine learning and scientific ML analysis; R where required for statistical/bioinformatics analysis.
 - **I go with the thumb rule: Come first and serve first, so all job offers application submitted are important and hold equal weightage and whichever is offered earlier, will join immediately.Everyone needs money to sustain themselves, so take the offered and selected job and position and make space for others. If you cant help others then dont interfere into others job and work affairs**
-- **My collaboration is limited to my employer collabroation. You can contact me only using gsablok@proton.me**
+- **My collaboration is limited to my employer collabroation. You can contact me only using gsablok@proton.me or sablokg@proton.me**
 
 ## **Research Work Job and Position Preferences**
 - **I enjoy roles as Postdocs, Bioinformatician, Academic Staff Researcher, Area Expert, Research Fellow, Computational Bioinformatician, Research Associatea Academic Researcher, Bioinformatics Analyst, Bioinformatics Scientist, Genomic Analyst, Staff member, Technical Expert, Software Developer for Academics, Computational Researcher, Bioinformatician with in academic institute and university research**. 
