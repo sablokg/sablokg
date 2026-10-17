@@ -12,7 +12,7 @@
 ## **Research Work Job and Position Preferences**
 - **I enjoy roles as Postdocs, Bioinformatician, Academic Staff Researcher, Area Expert, Research Fellow, Computational Bioinformatician, Research Associatea Academic Researcher, Bioinformatics Analyst, Bioinformatics Scientist, Genomic Analyst, Staff member, Technical Expert, Software Developer for Academics, Computational Researcher, Bioinformatician with in academic institute and university research**. 
 - As a prospective employer, i enjoy answering all your questions addressed to me as i am going to work for you and will give you the most accurate and correct reply instead of listening from any outside inferences without confirmation from me.
-- From my new employer, i want a booked stay for a month, a 500 Euro as a initial start (all these can later be deduced from my salary), and a flight ticket if not in Deutschland.**I dont do freelancing and not interested as freelancer**. 
+- From my new employer, i want a booked stay for a month, a 500 Euro as a initial start (all these can later be deduced from my salary), and a flight ticket if not in Deutschland. 
 
 ## **Research Experience**
 - **2026-**: **Independent Software and Machine Learning Developer and Bioinformatician, India**. focussed on developing softwares, machine learning and bioinformatics analysis of genomes covering all species using Python, Rust and Shell. Started programming C++ back. 
