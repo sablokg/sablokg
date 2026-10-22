@@ -1,6 +1,6 @@
 ## **Research Background**
 - Scientific Research is my first and top work priority. This is the only area that attracts me and suits me. I work on Bioinformatics covering all species for Illumina and LongRead sequencing technologies.     
-- I use Rust as my primary programming and software-development language. I use Python specifically for machine learning, scientific computing, and ML-based data analysis. I do not use Python as my general software-development language. October 2026 started programming C++ back for addon and not mainstream and will take a while only for software development. **Mainstream are Python, Rust and Shell.** 
+- I use Rust as my primary programming and software-development language. I use Python specifically for machine learning, scientific computing, and ML-based data analysis. **Mainstream are Python, Rust and Shell.** 
 - For machine learning, I work with both classical and deep learning approaches, including scikit-learn, LightGBM, XGBoost, CatBoost, Keras, Burn, and other specialized scientific ML libraries as required by the research problem.
 - My ML focus is structured scientific data including DNA/genomic sequences, gene interaction networks, microbiome data, metabolomics, chemical/molecular data, biological time series and other structured biological datasets.
 - Python is therefore an additional ML and scientific-analysis environment alongside Rust, not a replacement for Rust. Rust remains my main language for scientific software, applications, pipelines, tooling and high-performance software development.
@@ -12,7 +12,7 @@
 ## **Research Work Job and Position Preferences**
 - **I enjoy roles as Postdocs, Bioinformatician, Academic Staff Researcher, Area Expert, Research Fellow, Computational Bioinformatician, Research Associatea Academic Researcher, Bioinformatics Analyst, Bioinformatics Scientist, Genomic Analyst, Staff member, Technical Expert, Software Developer for Academics, Computational Researcher, Bioinformatician with in academic institute and university research**. 
 - As a prospective employer, i enjoy answering all your questions addressed to me as i am going to work for you and will give you the most accurate and correct reply instead of listening from any outside inferences without confirmation from me.
-- From my new employer, i want a booked stay for a month, a 500 Euro as a initial start (all these can later be deduced from my salary), and a flight ticket if not in Deutschland. 
+- From my new employer, i want a booked stay for a month, and a flight ticket.
 
 ## **Research Experience**
 - **2026 -**: **Independent Software and Machine Learning Developer and Bioinformatician, India**. focussed on developing softwares, machine learning and bioinformatics analysis of genomes covering all species using mainstream Python, Rust and Shell. 
