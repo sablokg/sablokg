@@ -15,9 +15,7 @@
 - **2016-2017**: **University of Connecticut, USA**, where i analyzed the Douglas fir genome from the genome annotation to the phylogenomics and identifying genes and evolution of importance. Developed software using C++. 
 - **2014-2016**: I spent two years as a Research Fellow at the **University of Technology, Sydney, Australia**, where I developed computational methods for understanding seagrasses and computing cluster. Developed and maintained entire HPC and developed software using C++. 
 - **2011-2014**: After my PhD, I developed bioinformatics methods and software for transcriptional and post-transcriptional genomics across nuclear and organelle genomes at **Fondazione Edmund Mach,Italy**. I analyzed and finished multiple RNA-seq and organelle-Seq experiments for several plant and fungal species, including Arundo donax. Additionally i analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial metagenomics. Additionally, I have done a lot of work in the field of organelle genomics and have published the first Cardamine species chloroplast genomes. Developed and maintained entire HPC and developed software using C++.
-  
-## **Research CV and Presentation**
-- A recent copy of my EuropassCV and presentation can be downloaded from this account.
+
 
 Gaurav Sablok
 - ORCID: 0000-0002-4157-9405
